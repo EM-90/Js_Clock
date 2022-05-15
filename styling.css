@@ -106,3 +106,9 @@ body {
   height: 35%;
   background-color: black;
 }
+.case {
+  background: linear-gradient(rgb(44, 131, 202), rgb(134, 96, 184));
+  padding: 80px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+}
